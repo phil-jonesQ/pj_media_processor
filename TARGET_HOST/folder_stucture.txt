@@ -1,0 +1,5 @@
+philjones@pi001mediadev:~$ ls /media001/* -ld
+drwxrwxrwx 1 root root 131072 Mar 11  2019 '/media001/$RECYCLE.BIN'
+drwxrwxrwx 1 root root 131072 May 23 18:00  /media001/Movies
+drwxrwxrwx 1 root root 131072 Mar  6  2019 '/media001/System Volume Information'
+drwxrwxrwx 1 root root 131072 Apr 29  2019  /media001/WPSystem
